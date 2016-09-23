@@ -1,0 +1,2 @@
+Time is 18:02.
+I’m learning how to use Git.
